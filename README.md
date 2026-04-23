@@ -186,4 +186,5 @@ Specialized in Data Cleaning, Analysis, and Visualization
 This project is licensed under the MIT License - feel free to use it as a reference for your own projects.
 
 ---
+⭐ **If you found this project helpful, please consider giving it a star!**
 
