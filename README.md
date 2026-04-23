@@ -177,7 +177,7 @@ Data Analyst | Python Developer
 Specialized in Data Cleaning, Analysis, and Visualization
 
 📧 Contact: mennamourad963a2gmail.com 
-🔗 LinkedIn: [Your LinkedIn]
+🔗 LinkedIn: [www.linkedin.com/in/mennatullah-mourad-13384b36a]
 
 ---
 
